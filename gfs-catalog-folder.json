@@ -1,0 +1,83 @@
+{
+  "name": "GFS Catalog-folder",
+  "packages": [
+    {
+      "titleId": "PPSA34474",
+      "title": "eBaseball PRO SPIRIT 2026",
+      "version": "2.002",
+      "sizeBytes": 118111600640,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1904/7abe9a7da5ec64878487df8eccdf2ccbf9042b3a33df95f4.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/s3CdKudzui"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38474",
+      "title": "Samson",
+      "version": "1.002",
+      "sizeBytes": 34359738368,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2707/f022c8c1c5f53c79f98d744a91ca442b990aa09978ed384a.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/ryTjswuSYK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21703",
+      "title": "Vampire Survivors",
+      "version": "01.016.107",
+      "sizeBytes": 1073741824,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTtVIWZwii--m8dzL0Jn8zDqZzviTBHi-vIxAyBkvag&s=10",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/mStPLRSp"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28824",
+      "title": "Valheim",
+      "version": "1.000.015",
+      "sizeBytes": 6249177416,
+      "posterUrl": "https://static0.fextralifeimages.com/wordpress/wp-content/uploads/2026/09/valheim-update-release-news-cover.png",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/RQqVhbvS"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29035",
+      "title": "Forgive Me Father 2",
+      "version": "2.10",
+      "sizeBytes": 8912057139,
+      "posterUrl": "https://meridiem-games.com/backoffice/public/uploads/games/6nlbrckjcn9r78jmsRU.png",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/lSgdiVsZ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07867",
+      "title": "Forever Skies",
+      "version": "2.10",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1915/668c9b10fd97a5ae0e2ecd19855b40b3df4893d6852e8190.png",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/Id7hwkiS"
+        }
+      ]
+    }
+  ]
+}
